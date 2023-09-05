@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unisynctech
+- 👋 Hi, I’m Aswin Kumar
 - 👀 I’m interested in building tech products
 - 💞️ I’m looking to collaborate on mobile development
 - 📫 Reach me @ unisync@outlook.in
